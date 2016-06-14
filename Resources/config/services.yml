@@ -1,0 +1,10 @@
+services:
+    cibincasso_barcode.generator:
+        class: Cibincasso\BarcodeBundle\Generator\Generator
+
+    cibincasso_barcode.twig.extension:
+        class: Cibincasso\BarcodeBundle\Twig\Extensions\Barcode
+        arguments:
+            - @cibincasso_barcode.generator
+        tags:
+            - { name: twig.extension }
