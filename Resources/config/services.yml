@@ -5,6 +5,6 @@ services:
     cibincasso_barcode.twig.extension:
         class: Cibincasso\BarcodeBundle\Twig\Extensions\Barcode
         arguments:
-            - @cibincasso_barcode.generator
+            - "@cibincasso_barcode.generator"
         tags:
             - { name: twig.extension }
