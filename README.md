@@ -1,9 +1,6 @@
 # SGKBarcodeBundle
 
-[![Build Status](https://travis-ci.org/shangguokan/SGKBarcodeBundle.svg)](https://travis-ci.org/shangguokan/SGKBarcodeBundle)
-[![Latest Stable Version](https://poser.pugx.org/sgk/barcode-bundle/v/stable)](https://packagist.org/packages/sgk/barcode-bundle) [![Total Downloads](https://poser.pugx.org/sgk/barcode-bundle/downloads)](https://packagist.org/packages/sgk/barcode-bundle) [![Latest Unstable Version](https://poser.pugx.org/sgk/barcode-bundle/v/unstable)](https://packagist.org/packages/sgk/barcode-bundle) [![License](https://poser.pugx.org/sgk/barcode-bundle/license)](https://packagist.org/packages/sgk/barcode-bundle)
-
-SGKBarcodeBundle is the Symfony2 Barcode Generator Bundle what you want!
+CibincassoBarcodeBundle is the Symfony2 Barcode Generator Bundle what you want!
 This README is also available in French ([Français](Resources/doc/README_fr.md)) and Chinese ([中文](Resources/doc/README_zh-CN.md)).
 
 Features:
@@ -12,7 +9,7 @@ Features:
 2. Three output formats: HTML, PNG and SVG canvas
 3. Twig integration: you can simply use a extensional function of Twig in the template to generate Barcode
 4. Core of this bundle use this laravel project: [dinesh/barcode](https://github.com/dineshrabara/barcode)
-
+s
 ![SGKBarcodeBundle](Resources/doc/README.png)
 
 ## Installation

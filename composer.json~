@@ -1,5 +1,5 @@
 {
-  "name": "cibincasso/barcode-bundle",
+  "name": "cibincasso/barcode",
   "type": "symfony-bundle",
   "description": "Symfony2 Barcode Generator Bundle with Twig function extension",
   "keywords": [
