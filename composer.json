@@ -19,6 +19,13 @@
       "email": "development@cibincasso.nl"
     }
   ],
+  "repositories": [
+     
+    {
+        "type": "vcs",
+        "url": "https://github.com/Saint-Cyr/barcode-bundle.git"
+    }
+  ],
   "require": {
     "php": ">=5.3.2",
     "symfony/framework-bundle": ">=2.3",
